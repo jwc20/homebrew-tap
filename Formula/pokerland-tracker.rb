@@ -7,8 +7,8 @@
 class PokerlandTracker < Formula
   desc "Uploads PokerStars hand histories to Pokerland"
   homepage "https://github.com/jwc20/pokerland-trackers"
-  url "https://github.com/jwc20/pokerland-trackers/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "4a25f54dc8d209ab738ae186b621f0c4ca05a9ded7215fb96c72996681ad0fbe"
+  url "https://github.com/jwc20/pokerland-trackers/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "466b2183a3dd053dcef2b7f146ed3ee564f87b8ce719766b37215e1890bc1e48"
   license "MIT"
 
   depends_on "go" => :build
